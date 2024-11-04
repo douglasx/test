@@ -1,0 +1,214 @@
+actual_child,actual_path
+propulsion shaft,4-3-2/1.1
+coupling,4-3-2/1.1
+clutch,4-3-2/1.1
+propulsion shaft,4-3-2/1.2.1
+propulsion shaft,4-3-2/1.2.2
+shaft seal,4-3-2/1.2.2
+bearing,4-3-2/1.2.2
+coupling,4-3-2/1.2.2
+clutch,4-3-2/1.2.2
+propeller,4-3-2/1.2.2
+propulsion shaft,4-3-2/1.2.3
+tail shaft,4-3-2/1.3.1
+tube shaft,4-3-2/1.3.2
+line shaft,4-3-2/1.3.3
+thrust shaft,4-3-2/1.3.4
+hollow shaft,4-3-2/1.3.5
+propulsion shaft,4-3-2/1.5.1
+propulsion shaft,4-3-2/1.5.2
+clutch,4-3-2/1.5.2
+flexible coupling,4-3-2/1.5.3
+cardan shaft,4-3-2/1.5.4
+propulsion shaft,4-3-2/1.5.5
+propulsion shaft,4-3-2/3.1
+coupling bolt,4-3-2/3.1
+shaft key,4-3-2/3.1
+clutch,4-3-2/3.1
+propulsion shaft,4-3-2/3.1.1
+propulsion shaft,4-3-2/3.1.2
+propulsion shaft,4-3-2/3.1.3
+coupling bolt,4-3-2/3.1.3
+propulsion shaft,4-3-2/3.3
+shaft liner,4-3-2/3.5
+propulsion shaft,4-3-2/3.7.1
+coupling bolt,4-3-2/3.7.1
+shaft key,4-3-2/3.7.1
+clutch,4-3-2/3.7.1
+propulsion shaft,4-3-2/3.7.2(a)
+coupling bolt,4-3-2/3.7.2(a)
+shaft key,4-3-2/3.7.2(a)
+clutch,4-3-2/3.7.2(a)
+coupling bolt,4-3-2/3.7.2(b)
+coupling bolt,4-3-2/3.7.2(c)
+clutch,4-3-2/3.7.2(c)
+tail shaft,4-3-2/3.7.3
+tail shaft,4-3-2/3.7.3(a)
+tail shaft,4-3-2/3.7.3(b)
+line shaft,4-3-2/5.1
+thrust shaft,4-3-2/5.1
+tail shaft,4-3-2/5.1
+tube shaft,4-3-2/5.1
+hollow shaft,4-3-2/5.3
+propulsion shaft,4-3-2/5.5
+shaft key,4-3-2/5.7
+n/a,4-3-2/5.9
+tail shaft,4-3-2/5.11
+shaft key,4-3-2/5.11
+propeller hub,4-3-2/5.11
+shaft seal,4-3-2/5.13.1
+shaft seal,4-3-2/5.13.2
+bearing,4-3-2/5.15.1
+bearing,4-3-2/5.15.2(a)
+bearing,4-3-2/5.15.2(b)
+bearing,4-3-2/5.15.2(c)
+bearing,4-3-2/5.15.2(d)
+bearing,4-3-2/5.15.2(e)
+bearing,4-3-2/5.15.3
+shaft liner,4-3-2/5.17.1(a)
+shaft liner,4-3-2/5.17.1(b)
+shaft liner,4-3-2/5.17.2
+shaft liner,4-3-2/5.17.3
+shaft liner,4-3-2/5.17.4
+shaft liner,4-3-2/5.17.5
+shaft liner,4-3-2/5.17.6
+coupling bolt,4-3-2/5.19.1
+coupling bolt,4-3-2/5.19.2
+coupling bolt,4-3-2/5.19.2(a)
+coupling bolt,4-3-2/5.19.2(b)
+coupling bolt,4-3-2/5.19.2(c)
+coupling flange,4-3-2/5.19.3(a)
+coupling flange,4-3-2/5.19.3(b)
+demountable coupling,4-3-2/5.19.4
+shaft key,4-3-2/5.19.4
+flexible coupling,4-3-2/5.19.5(a)
+flexible coupling,4-3-2/5.19.5(b)
+flexible coupling,4-3-2/5.19.5(c)
+flexible coupling,4-3-2/5.19.5(d)
+clutch,4-3-2/5.19.6(a)
+clutch,4-3-2/5.19.6(b)
+clutch,4-3-2/5.19.6(c)
+coupling bolt,4-3-2/5.19.6(c)
+coupling bolt,4-3-2/5.19.7
+cardan shaft,4-3-2/5.21
+coupling flange,4-3-2/5.21
+coupling bolt,4-3-2/5.21
+general,4-3-2/7.1
+bearing,4-3-2/7.1
+general,4-3-2/7.3.1(a)
+stern tube,4-3-2/7.3.1(a)
+general,4-3-2/7.3.1(b)
+general,4-3-2/7.3.2(a)
+bearing,4-3-2/7.3.2(a)
+stern tube,4-3-2/7.3.2(a)
+tail shaft,4-3-2/7.3.2(a)
+survey,4-3-2/7.3.2(a)
+general,4-3-2/7.3.2(a)
+n/a,4-3-2/7.3.2(b)
+n/a,4-3-2/7.3.2(c)
+bearing,4-3-2/7.3.3
+stern tube,4-3-2/7.3.3
+tail shaft,4-3-2/7.3.3
+propulsion shaft,4-3-2/7.3.4
+bearing,4-3-2/7.3.4
+stern tube,4-3-2/7.3.4
+tail shaft,4-3-2/7.3.4
+propulsion shaft,4-3-2/7.5.1
+n/a,4-3-2/7.5.2
+general,4-3-2/7.5.3
+general,4-3-2/7.5.4
+general,4-3-2/7.5.5
+survey,4-3-2/7.5.6
+general,4-3-2/7.5.7
+gear unit,4-3-2/7.5.8
+reduction gear,4-3-2/7.5.8
+power take-off gear,4-3-2/7.5.8
+n/a,4-3-2/7.5.9
+general,4-3-2/7.7
+general,4-3-2/7.9.1
+general,4-3-2/7.9.2(a)
+general,4-3-2/7.9.2(b)
+n/a,4-3-2/8
+survey,4-3-2/9.1
+survey,4-3-2/9.3
+survey,4-3-2/9.5.1
+survey,4-3-2/9.5.2
+survey,4-3-2/9.7
+survey,4-3-2/11.1.1
+survey,4-3-2/11.1.2(a)
+survey,4-3-2/11.1.2(b)
+survey,4-3-2/11.1.2(c)
+survey,4-3-2/11.1.2(d)
+survey,4-3-2/11.1.2(e)
+survey,4-3-2/11.1.2(f)
+survey,4-3-2/11.1.3
+survey,4-3-2/11.3.1
+survey,4-3-2/11.3.2
+survey,4-3-2/11.3.3
+survey,4-3-2/11.5
+survey,4-3-2/11.6
+survey,4-3-2/11.7
+tail shaft,4-3-2/13.1
+general,4-3-2/13.3.1
+shaft seal,4-3-2/13.3.2
+survey,4-3-2/13.3.3
+stern tube,4-3-2/13.5.1
+stern tube,4-3-2/13.5.2
+stern tube,4-3-2/13.5.3
+survey,4-3-2/13.7.1
+survey,4-3-2/13.7.2
+tail shaft,4-3-2/14.1
+shaft seal,4-3-2/14.1
+shaft seal,4-3-2/14.3
+n/a,4-3-2/14.3.1
+n/a,4-3-2/14.3.2
+n/a,4-3-2/14.5
+survey,4-3-2/14.7.1
+survey,4-3-2/14.7.2
+tail shaft,4-3-2/15.1
+bearing,4-3-2/15.3.1(a)
+general,4-3-2/15.3.1(b)
+n/a,4-3-2/15.3.1(c)
+n/a,4-3-2/15.3.1(d)
+n/a,4-3-2/15.3.1(e)
+general,4-3-2/15.3.1(f)
+bearing,4-3-2/15.3.1(g)
+bearing,4-3-2/15.3.2(a)
+general,4-3-2/15.3.2(b)
+general,4-3-2/15.3.2(c)
+general,4-3-2/15.3.2(d)
+bearing,4-3-2/15.3.2(e)
+propulsion shaft,4-3-2/15.3.2(f)
+n/a,4-3-2/15.3.3(a)
+propulsion shaft,4-3-2/15.3.3(b)
+n/a,4-3-2/15.5.1
+survey,4-3-2/15.5.2
+bearing,4-3-2/15.5.3
+n/a,4-3-2/15.5.4
+n/a,4-3-2/15.5.5
+survey,4-3-2/15.7
+survey,4-3-2/15.9.1
+survey,4-3-2/15.9.2
+survey,4-3-2/15.9.3
+general,4-3-2/16
+n/a,4-3-2/17
+n/a,4-3-2/17.1
+propeller,4-3-2/17.3
+n/a,4-3-2/17.5
+n/a,4-3-2/17.7.1
+general,4-3-2/17.9.1
+general,4-3-2/17.9.2
+general,4-3-2/17.9.3
+general,4-3-2/17.9.4
+general,4-3-2/17.9.5
+shaft seal,4-3-2/17.9.6
+propulsion shaft,4-3-2/17.9.7
+coupling bolt,4-3-2/17.9.8
+general,4-3-2/17.9.9
+n/a,4-3-2/17.9.10
+general,4-3-2/17.9.11
+n/a,4-3-2/17.11
+survey,4-3-2/17.13
+survey,4-3-2/17.15.1
+survey,4-3-2/17.15.2
+,4-3-2/

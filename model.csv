@@ -1,0 +1,32 @@
+parent_part,child_part
+propulsion system,propulsion shafting
+propulsion system,propellers
+propulsion system,gears and clutches
+propulsion shafting,stern tube
+propulsion shafting,shaft key
+propulsion shafting,coupling
+propulsion shafting,bearing
+propulsion shafting,shaft seal
+propulsion shafting,propulsion shaft
+propulsion shafting,shaft liner
+coupling,coupling flange
+coupling,flexible coupling
+coupling,demountable coupling
+coupling,coupling bolt
+propulsion shaft,line shaft
+propulsion shaft,tail shaft
+propulsion shaft,tube shaft
+propulsion shaft,thrust shaft
+propulsion shaft,cardan shaft
+propulsion shaft,hollow shaft
+propellers,controllable pitch propeller
+propellers,fixed pitch propeller
+controllable pitch propeller,propeller blade
+controllable pitch propeller,peopeller hub
+controllable pitch propeller,CPP unit
+fixed pitch propeller,propeller blade
+fixed pitch propeller,peopeller hub
+gears and clutches,reduction gear
+gears and clutches,gear unit
+gears and clutches,clutch
+gears and clutches,power take-off gear
